@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270579445193",
+    "project_id": "artificial-inteligence-c9a06",
+    "storage_bucket": "artificial-inteligence-c9a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270579445193:android:25c4de3627161c2f1dcc18",
+        "android_client_info": {
+          "package_name": "com.appsxone.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270579445193-oftp8aalusr79d3b7kcn8dadtnvg5jfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXTVSNwo7P_B3iple9m_UR4F58TLmKb0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270579445193-oftp8aalusr79d3b7kcn8dadtnvg5jfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
